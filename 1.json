@@ -1,0 +1,39 @@
+{
+  "dna": "03e29e44964f05113405eecb09d6e58ae5abef91",
+  "name": "#1",
+  "description": "Collection of 3070 pixel people",
+  "image": "ipfs://UPDATE/1.png",
+  "edition": 1,
+  "date": 1643004064234,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "blue"
+    },
+    {
+      "trait_type": "Undershirt",
+      "value": "brown"
+    },
+    {
+      "trait_type": "Uniform Color",
+      "value": "White"
+    },
+    {
+      "trait_type": "Rank",
+      "value": "Council Staff"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "cowboy hat"
+    },
+    {
+      "trait_type": "Gavel",
+      "value": "brown gavel"
+    },
+    {
+      "trait_type": "Book",
+      "value": "royal bluebook"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
